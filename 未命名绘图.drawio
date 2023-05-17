@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T09:45:10.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.7" etag="ojeIVGxo4rXerobMt6mU" type="github">
-  <diagram name="第 1 页" id="1yoOggWUTv7Zc82gbLxh">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-05-17T09:51:29.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZdQunAZQNjgIpgtF8blg" version="21.2.7" type="github">
+  <diagram name="班组系统与工资系统对接" id="1yoOggWUTv7Zc82gbLxh">
+    <mxGraphModel dx="989" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-2" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=70;dy=60;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="1380" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUsLVuz7Mi9fXnp_Wn4O-2" target="kUsLVuz7Mi9fXnp_Wn4O-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUsLVuz7Mi9fXnp_Wn4O-17" target="kUsLVuz7Mi9fXnp_Wn4O-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-17" value="产量工资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kUsLVuz7Mi9fXnp_Wn4O-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-19" value="个人杂工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kUsLVuz7Mi9fXnp_Wn4O-21" target="kUsLVuz7Mi9fXnp_Wn4O-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-21" value="其他" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-22" value="车间工资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-23" value="绩效工资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-24" value="假期工资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kUsLVuz7Mi9fXnp_Wn4O-26" value="车间工资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-200" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
