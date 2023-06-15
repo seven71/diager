@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T06:50:04.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ToV3IdqbmiEEP9M8FmQp" version="21.3.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-15T07:02:27.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_aW0wKfH5Aoo0nKPtvZt" version="21.3.8" type="github" pages="8">
   <diagram name="第 1 页" id="TdalaOrlAJjaWRF8ksaa">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,13 +70,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6HSAuokOWffdYc0VG0xk-9" value="02 小程序信息与发布" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="140" height="50" as="geometry" />
+          <mxGeometry x="140" y="340" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6HSAuokOWffdYc0VG0xk-10" value="公告管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="450" y="313" width="150" height="40" as="geometry" />
+          <mxGeometry x="440" y="313" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6HSAuokOWffdYc0VG0xk-11" value="小程序海报管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="450" y="377" width="150" height="40" as="geometry" />
+          <mxGeometry x="440" y="377" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
